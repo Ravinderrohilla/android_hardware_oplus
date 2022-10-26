@@ -56,7 +56,6 @@ cc_library_shared {
         "libqtivibratoreffect",
         "libqtivibratoreffectoffload",
         "libbinder_ndk",
-        "android.hardware.vibrator-V1-ndk_platform",
     ],
     export_include_dirs: ["include"],
 }
